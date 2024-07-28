@@ -8,8 +8,11 @@ Cet overlay personnalisé, basé sur RivaTunerStatisticServer, fournit une inter
 Il permet de surveiller de manière précise et détaillée les performances de votre matériel, notamment :
 
 Processeur (CPU) : Fréquence, charge, température (>65° celui-ci passe au rouge)
+
 Carte graphique (GPU) : Fréquence, charge, utilisation de la mémoire vidéo, température (>75° celui-ci passe au rouge) 
+
 Mémoire vive (RAM) : Utilisation totale et disponible
+
 Autres : Vitesses des ventilateurs, fréquences d'horloge, tensions, etc. configuration [INTEL/NVIDIA]
 
 ## Fonctionnalités principales
